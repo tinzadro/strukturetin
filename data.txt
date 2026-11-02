@@ -1,8 +1,7 @@
-Iva Ivic 78
-Marko Markic 65
-Petar Peric 98
-Daniel Maric 56
-Nika Nikic 87
-Lucija Matic 67
-Sara Nizic 69
-Ante Antic 80
+3 2
+2 0
+-1 1
+
+2 1
+4 3
+1 0
